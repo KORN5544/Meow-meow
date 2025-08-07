@@ -16,7 +16,7 @@ const Products = () => {
     <>
       <section className="bg-white py-8">
         <main className="container mx-auto">
-          <h1 className="text-3xl font-bold text-yellow-800 mb-6">อาวุธ</h1>
+          <h1 className="text-3xl font-bold text-yellow-800 mb-6">รายการสินค้า</h1>
           <hr className="border-t-4 border-gray-300 mb-8 w-full" />
           <CardList cardData={cardData} />
         </main>
